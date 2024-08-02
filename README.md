@@ -25,13 +25,13 @@ e-mail, zonas DNS e bancos de dados a partir de um painel central, sem o incômo
 Para iniciar a instalação, você precisará estar logado como root ou um usuário com privilégios de superusuário. Você pode executar a instalação diretamente do console da linha de comando ou remotamente
 via SSH:
 
-Coloque este código com formatação para linguagem bash: ssh root@your.server
+```ssh root@your.server```
 
 ## Etapa 2 -Baixar
 
 Baixe o script de instalação para a versão mais recente:
 
-Coloque este código com formatação para linguagem bash: wget https://raw.githubusercontent.com/hestiacp/hestiacp/release/install/hst-install.sh
+```wget https://raw.githubusercontent.com/hestiacp/hestiacp/release/install/hst-install.sh```
 
 
 ## Etapa 3 – Executar
